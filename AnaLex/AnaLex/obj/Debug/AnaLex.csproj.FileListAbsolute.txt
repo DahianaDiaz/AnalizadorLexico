@@ -1,0 +1,10 @@
+C:\Users\dahia\source\repos\AnaLex\AnaLex\bin\Debug\AnaLex.exe.config
+C:\Users\dahia\source\repos\AnaLex\AnaLex\bin\Debug\AnaLex.exe
+C:\Users\dahia\source\repos\AnaLex\AnaLex\bin\Debug\AnaLex.pdb
+C:\Users\dahia\source\repos\AnaLex\AnaLex\obj\Debug\AnaLex.csprojAssemblyReference.cache
+C:\Users\dahia\source\repos\AnaLex\AnaLex\obj\Debug\AnaLex.Form1.resources
+C:\Users\dahia\source\repos\AnaLex\AnaLex\obj\Debug\AnaLex.Properties.Resources.resources
+C:\Users\dahia\source\repos\AnaLex\AnaLex\obj\Debug\AnaLex.csproj.GenerateResource.cache
+C:\Users\dahia\source\repos\AnaLex\AnaLex\obj\Debug\AnaLex.csproj.CoreCompileInputs.cache
+C:\Users\dahia\source\repos\AnaLex\AnaLex\obj\Debug\AnaLex.exe
+C:\Users\dahia\source\repos\AnaLex\AnaLex\obj\Debug\AnaLex.pdb
